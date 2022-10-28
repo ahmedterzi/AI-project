@@ -198,6 +198,5 @@ class Dwarwes(Faction):
         merchant.weapon_point -= point_wanted
     def Print(self):
         return self.__dict__
-ork = Orcs('ork1', 50, 50, 50, 5)
         
         
